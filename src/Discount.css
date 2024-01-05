@@ -1,0 +1,11 @@
+.dis{
+    padding: 25%;
+}
+.but{
+    display: flex;
+    padding-top: 10%;
+    gap: 180px;
+}
+.amo{
+    padding-top: 10%; 
+}
